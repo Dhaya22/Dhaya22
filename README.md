@@ -1,8 +1,6 @@
 # 💫 About Me:
 Hello! My name is Dhaya, and I am a GIS Developer with a strong passion for building geospatial solutions that are both functional and visually intuitive. I have a keen interest in GeoAI, where geospatial intelligence meets artificial intelligence, and I am actively exploring LLM (Large Language Model) applications to build smarter, context-aware geospatial tools. I enjoy staying current with the latest trends in GIS, AI, and web development, constantly learning and integrating new techniques into my projects.<br><br>Outside of work, I dedicate my time to continuous learning new technologies, experimenting with GeoAI use cases, and working on personal projects that push the boundaries of what's possible with geospatial data.I am always on the lookout for exciting challenges and opportunities to grow my skills and contribute to impactful, future-ready solutions.
 
-
-## 🌐 Socials:
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://dhaya-portfolio.vercel.app) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/nEtn4uDT) 
